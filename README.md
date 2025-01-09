@@ -30,12 +30,6 @@ This project highlights essential front-end development skills:
 - Expertise in password validation mechanisms.
 - Implementation of responsive and accessible web design.
 
-# 👩‍💻Get Started:
-Clone this repository and start experimenting today:  
-   git clone https://github.com/yourusername/password-strength-checker.git
-   cd password-strength-checker
-   open index.html
-
 # Output:
 ![Screenshot 2025-01-06 145005](https://github.com/user-attachments/assets/ff2414fc-fac6-4330-b93e-59371c69167c)
 ![Screenshot 2025-01-06 145031](https://github.com/user-attachments/assets/34ba9aae-8f62-465d-ac57-a282621987e8)
